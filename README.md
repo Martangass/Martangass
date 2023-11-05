@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Martangass, im a German Cybercriminal and Reallife Criminal from Heilbronn, Germany.
 - 👀 I’m interested in Video Games, Weed, Kocaine, Fraud, Hacking, and at least Phishing and Maleware!
 - 🌱 I’m currently learning Python and PHP.
-- 💞️ My Languages are: HTML, CSS, Python, SHELL, GO, JavaScript and of corse German and English. 
+- 💞️ My Languages are: HTML, CSS, Python, SHELL, GO, JavaScript and of corse German and English.
+- 💻 Im working on MacOS, Kali Linux, ParrotOS and IOS.
 - 📫 How to reach me seber.marvin@icloud.com
                   or marvinseber11@gmail.com
 
